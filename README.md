@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is João Vitor and I'm a Computer Engineer, from Brasil.</p>
+<p align="left">My name is João Vitor and I'm a Computer Engineer</p>
 
 ###
 
